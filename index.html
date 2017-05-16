@@ -1,0 +1,44 @@
+<html ng-app="smpd">
+    <head>
+        <title>Formulário</title>
+        <meta charset="UTF-8">
+        <script type="text/javascript" src="require/jquery.js"></script>
+        <script type="text/javascript" src="require/angular.min.js"></script>
+        <script type="text/javascript" src="require/angular-route.js"></script>
+        <script type="text/javascript" src="require/angular-resource.js"></script>
+        <script type="text/javascript" src="require/angular-animate.js"></script>
+        <script type="text/javascript" src="require/bootstrap.js"></script>        
+
+        <base href="/">
+
+
+        
+        <link rel="stylesheet" href="require/bootstrap.css" type="text/css" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="require/app.css" type="text/css" />
+        
+        
+        
+        <script type="text/javascript" src="app.js"></script>
+        <script type="text/javascript" src="src/controller.js"></script>
+        <script type="text/javascript" src="src/diretivas.js"></script>
+        <script type="text/javascript" src="src/filtros.js"></script>
+    </head>
+    <body >
+        <menu>
+            <item href="/">Lista Geral</item>
+            <item href="/formulario">Novo Cadastro</item>
+            <dropdown nome="imprimir">
+                <item href="/5"> dia 5</item>
+                <item href="/6"> dia 6</item>
+                <item href="/7"> dia 7</item>
+                <item href="/8"> dia 8</item>
+                <item href="/13"> dia 13</item>
+                 
+            </dropdown>
+        </menu>
+        
+        <div class="container" ng-view></div>
+        <div style="page-break-before: always"></div>
+    </body>
+</html>

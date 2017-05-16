@@ -1,0 +1,103 @@
+<form name="myform" class="form-horizontal col-md-9"  action="#" method="post" >
+                <legend>Carnaval SMPD <strong>2016</strong></legend>
+    
+    
+                <div class="">
+                    <div class="">
+                        <label for="inputNome" class="control-label ">Nome:</label>
+                        <div class="controls">
+                            <input class="form-control" placeholder="Nome do Deficiente" type="text" id="inputNome" name="nome" ng-model="nome"autocomplete="off" />
+                        </div>
+                    </div>
+    
+                    <div class="">
+                        <label for="inputNomeA" class="control-label">Acompanhante:</label>
+                        <div class="controls">
+                            <input class="form-control" placeholder="Nome do acompanhante" type="text" id="inputNomeA" name="nomeA" ng-model="nomeA"autocomplete="off" />
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="controls">
+                            <input type="checkbox" id="liberar" name="liberar" value="liberar" ng-model='liberar'>
+                            <label for="liberar" class="control-label">Habilitar 2º Acompanhante?</label>
+                        </div>
+                    </div>
+                    <div class="" ng-if="liberar">
+                        <label for="inputNomeB" class="control-label">Acompanhante:</label>
+                        <div class="controls">
+                            <input class="form-control" placeholder="Nome do segundo acompanhante" type="text" id="inputNomeB" name="nomeB" ng-model="nomeB"autocomplete="off" />
+                        </div>
+                    </div>
+                </div>
+    
+                <div class="">
+                    <div class="">Deficiencia:<br>
+                        <label for="radio1" class="control-label btn btn-default btn-mvp">
+                            <input type="checkbox" id="radio1" name="def1" value="Física" ng-model='def1'>Física
+                        </label>
+                        <label for="radio2" class="control-label btn btn-default btn-mvp">
+                            <input type="checkbox" id="radio2" name="def2" value="Visual" ng-model='def2'>Visual
+                        </label>
+                        <label for="radio3" class="control-label btn btn-default btn-mvp">
+                            <input type="checkbox" id="radio3" name="def3" value="Auditiva" ng-model='def3'>Auditiva
+                        </label>
+                        <label for="radio4" class="control-label btn btn-default btn-mvp">
+                            <input type="checkbox" id="radio4" name="def4" value="Intelectual" ng-model='def4'>Intelectual
+                        </label>
+                        <label for="radio5" class="control-label btn btn-default btn-mvp">
+                            <input type="checkbox" id="radio5" name="def5" value="Cadeirante" ng-model='def5'>Cadeirante
+                        </label>
+                    </div>
+                </div>
+                <div class="">
+                    <div ng-if="def5">
+                        <div class="">Desfile<br>
+                            <label for="check1" class="control-label btn btn-default btn-mvp">
+                                <input type="checkbox" id="check1" name="dia1" value="dia5" ng-model='check1'>dia 5
+                            </label>
+                            <label for="check2" class="control-label btn btn-default btn-mvp">
+                                <input type="checkbox" id="check2" name="dia2" value="dia6" ng-model='check2'>dia 6
+                            </label>
+                            <label for="check3" class="control-label btn btn-default btn-mvp">
+                                <input type="checkbox" id="check3" name="dia3" value="dia7" ng-model='check3'>dia 7
+                            </label>
+                            <label for="check4" class="control-label btn btn-default btn-mvp">
+                                <input type="checkbox" id="check4" name="dia4" value="dia8" ng-model='check4'>dia 8
+                            </label>
+                            <label for="check5" class="control-label btn btn-default btn-mvp">
+                                <input type="checkbox" id="check5" name="dia5" value="dia13" ng-model='check5'>dia 13
+                            </label>
+                        </div>
+                    </div>
+                    <div ng-if="!def5">
+                        <div class="">
+                            <div class="">Desfile Grupo de acesso:<br>
+                                <label for="dia5" class="control-label btn btn-default btn-mvp">
+                                    <input type="radio" id="dia5" name="acesso" value="dia5" ng-model='radio5'>dia 5
+                                </label>
+                                <label for="dia6" class="control-label btn btn-default btn-mvp">
+                                    <input type="radio" id="dia6" name="acesso" value="dia6" ng-model='radio6'>dia 6
+                                </label>
+                            </div>
+                        </div>
+                        <div class="">
+                            <div class="">Desfile Grupo Especial:<br>
+                                <label for="dia7" class="control-label btn btn-default btn-mvp">
+                                    <input type="radio" id="dia7" name="especial" value="dia7" ng-model='radio7'>dia 7
+                                </label>
+                                <label for="dia8" class="control-label btn btn-default btn-mvp">
+                                    <input type="radio" id="dia8" name="especial" value="dia8" ng-model='radio8'>dia 8
+                                </label>
+                                <label for="dia13" class="control-label btn btn-default btn-mvp">
+                                    <input type="radio" id="dia13" name="especial" value="dia13" ng-model='radio12'>dia 13
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br><br>
+    
+                <div class="form-actions">
+                    <input class="form-control btn btn-success" type="submit" value="Cadastrar" />
+                </div>
+            </form>

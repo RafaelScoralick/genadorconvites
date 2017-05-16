@@ -1,0 +1,619 @@
+[
+  {
+    "especial": "dia8",
+    "acesso": "dia6",
+    "def6": "Convidado",
+    "nomeA": "English Mendoza",
+    "nome": "Lang Hutchinson"
+  },
+  {
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "def2": "Visual",
+    "nomeA": "Louella Nash",
+    "nome": "Santiago Sims"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia6",
+    "def6": "Convidado",
+    "nomeA": "Winters Peters",
+    "nome": "Washington Knowles"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia6",
+    "def6": "Convidado",
+    "nomeA": "Murphy Vinson",
+    "nome": "Alberta Johnston"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia5",
+    "def1": "Física",
+    "NomeB": "Hawkins Cortez",
+    "nomeA": "Kellie Bass",
+    "nome": "Dominguez Holland"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia6",
+    "def4": "Intelectual",
+    "def1": "Física",
+    "nomeA": "Gretchen Randall",
+    "nome": "Berger Briggs"
+  },
+  {
+    "especial": "dia13",
+    "acesso": "dia5",
+    "def6": "Convidado",
+    "nomeA": "Audra Riley",
+    "nome": "Mayer Mccarthy"
+  },
+  {
+    "dia5": "dia13",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "nomeA": "Blevins Glover",
+    "nome": "Kelsey Bond"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia2": "dia6",
+    "def5": "Cadeirante",
+    "nomeA": "Antonia Pennington",
+    "nome": "Lou Gonzales"
+  },
+  {
+    "especial": "dia7",
+    "acesso": "dia6",
+    "def6": "Convidado",
+    "nomeA": "Solomon Greene",
+    "nome": "Dotson Norman"
+  },
+  {
+    "dia4": "dia8",
+    "def5": "Cadeirante",
+    "def4": "Intelectual",
+    "def2": "Visual",
+    "nomeA": "Fran Collins",
+    "nome": "Kitty Hinton"
+  },
+  {
+    "especial": "dia7",
+    "acesso": "dia5",
+    "def4": "Intelectual",
+    "def3": "Auditiva",
+    "def2": "Visual",
+    "def1": "Física",
+    "NomeB": "Cherry Brooks",
+    "nomeA": "Loretta Trujillo",
+    "nome": "Phyllis Todd"
+  },
+  {
+    "especial": "dia7",
+    "acesso": "dia6",
+    "def4": "Intelectual",
+    "nomeA": "Martina Cannon",
+    "nome": "Sosa Shepard"
+  },
+  {
+    "especial": "dia13",
+    "acesso": "dia6",
+    "def3": "Auditiva",
+    "NomeB": "West Acevedo",
+    "nomeA": "Denise Shaffer",
+    "nome": "Meghan Rhodes"
+  },
+  {
+    "especial": "dia13",
+    "acesso": "dia6",
+    "def6": "Convidado",
+    "nomeA": "Harrison Francis",
+    "nome": "Misty Schroeder"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia6",
+    "def1": "Física",
+    "nomeA": "Opal Gutierrez",
+    "nome": "Pittman Oconnor"
+  },
+  {
+    "especial": "dia7",
+    "acesso": "dia5",
+    "def4": "Intelectual",
+    "def3": "Auditiva",
+    "def2": "Visual",
+    "nomeA": "Dean Williams",
+    "nome": "Nixon Bridges"
+  },
+  {
+    "especial": "dia13",
+    "acesso": "dia6",
+    "def6": "Convidado",
+    "nomeA": "Mathews Adkins",
+    "nome": "Frost Barnett"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia5",
+    "def6": "Convidado",
+    "nomeA": "Moore Mack",
+    "nome": "Le Whitley"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "def2": "Visual",
+    "nomeA": "Stacy Palmer",
+    "nome": "Stacey Page"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "def2": "Visual",
+    "nomeA": "Kline Hendrix",
+    "nome": "Kristen Garcia"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "def2": "Visual",
+    "nomeA": "Susan Nicholson",
+    "nome": "Meagan Lara"
+  },
+  {
+    "especial": "dia7",
+    "acesso": "dia6",
+    "def4": "Intelectual",
+    "def2": "Visual",
+    "def1": "Física",
+    "NomeB": "Rosie Waller",
+    "nomeA": "Jessica Ellison",
+    "nome": "Hester Kline"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "nomeA": "Olga Booth",
+    "nome": "Kristina Walton"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "def5": "Cadeirante",
+    "def3": "Auditiva",
+    "NomeB": "Lydia Houston",
+    "nomeA": "Jones Luna",
+    "nome": "Long Bell"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "def3": "Auditiva",
+    "def2": "Visual",
+    "def1": "Física",
+    "nomeA": "Faith Cameron",
+    "nome": "Gilbert Kirkland"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "def5": "Cadeirante",
+    "def4": "Intelectual",
+    "def3": "Auditiva",
+    "nomeA": "Paula Barry",
+    "nome": "Kirby Cole"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia6",
+    "def1": "Física",
+    "nomeA": "Snyder Burt",
+    "nome": "Morin Riddle"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia5",
+    "def3": "Auditiva",
+    "nomeA": "Benton Simon",
+    "nome": "Antoinette Howard"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "def3": "Auditiva",
+    "def2": "Visual",
+    "nomeA": "Cohen Fuentes",
+    "nome": "Barr Britt"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "def4": "Intelectual",
+    "def3": "Auditiva",
+    "def1": "Física",
+    "nomeA": "Walton Hopkins",
+    "nome": "Malinda Guthrie"
+  },
+  {
+    "especial": "dia13",
+    "acesso": "dia6",
+    "def3": "Auditiva",
+    "nomeA": "Nanette Aguilar",
+    "nome": "Allyson Fleming"
+  },
+  {
+    "dia5": "dia13",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "nomeA": "Stevens Russo",
+    "nome": "Pugh Young"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "def1": "Física",
+    "nomeA": "Lori Battle",
+    "nome": "Lowery Best"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia2": "dia6",
+    "def5": "Cadeirante",
+    "def3": "Auditiva",
+    "nomeA": "Katie Lancaster",
+    "nome": "Celina Robinson"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "def5": "Cadeirante",
+    "nomeA": "Olsen Downs",
+    "nome": "Brenda Price"
+  },
+  {
+    "especial": "dia7",
+    "acesso": "dia6",
+    "def6": "Convidado",
+    "NomeB": "Aileen Cooley",
+    "nomeA": "Levy Hewitt",
+    "nome": "Erna Peck"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia5",
+    "def4": "Intelectual",
+    "def1": "Física",
+    "nomeA": "Rosalyn Sargent",
+    "nome": "Walter Valdez"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia6",
+    "def4": "Intelectual",
+    "def3": "Auditiva",
+    "nomeA": "Rena Mills",
+    "nome": "Coleen Chang"
+  },
+  {
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "def5": "Cadeirante",
+    "def1": "Física",
+    "nomeA": "Earlene Sweeney",
+    "nome": "Newman Conway"
+  },
+  {
+    "especial": "dia7",
+    "acesso": "dia5",
+    "def4": "Intelectual",
+    "def2": "Visual",
+    "NomeB": "Bridgett Wise",
+    "nomeA": "Neva Henderson",
+    "nome": "Aida Carver"
+  },
+  {
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "def5": "Cadeirante",
+    "def3": "Auditiva",
+    "def2": "Visual",
+    "def1": "Física",
+    "nomeA": "Schneider Fisher",
+    "nome": "Sheryl Conner"
+  },
+  {
+    "dia5": "dia13",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "def5": "Cadeirante",
+    "def1": "Física",
+    "nomeA": "Duffy Evans",
+    "nome": "Myra Singleton"
+  },
+  {
+    "especial": "dia13",
+    "acesso": "dia6",
+    "def3": "Auditiva",
+    "def2": "Visual",
+    "nomeA": "Marietta Hopper",
+    "nome": "Rutledge Hancock"
+  },
+  {
+    "dia5": "dia13",
+    "def5": "Cadeirante",
+    "nomeA": "Kari Goodman",
+    "nome": "Miller Jennings"
+  },
+  {
+    "especial": "dia7",
+    "acesso": "dia6",
+    "def4": "Intelectual",
+    "def2": "Visual",
+    "nomeA": "Daniels Wolf",
+    "nome": "Acevedo Ellis"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia6",
+    "def3": "Auditiva",
+    "nomeA": "Bright Bradford",
+    "nome": "Cross Owens"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "def1": "Física",
+    "nomeA": "Patel Bernard",
+    "nome": "Thornton Lowe"
+  },
+  {
+    "especial": "dia7",
+    "acesso": "dia5",
+    "def4": "Intelectual",
+    "nomeA": "Ann Duncan",
+    "nome": "Violet Dorsey"
+  },
+  {
+    "especial": "dia13",
+    "acesso": "dia5",
+    "def4": "Intelectual",
+    "def2": "Visual",
+    "def1": "Física",
+    "nomeA": "Noel Crawford",
+    "nome": "Avery Humphrey"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia6",
+    "def2": "Visual",
+    "NomeB": "Levine England",
+    "nomeA": "Cooley Hooper",
+    "nome": "Christensen Kemp"
+  },
+  {
+    "dia5": "dia13",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "nomeA": "Kidd Sweet",
+    "nome": "Steele Kim"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "def1": "Física",
+    "nomeA": "Noreen Barnes",
+    "nome": "Herring Fernandez"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia5",
+    "def1": "Física",
+    "nomeA": "Frankie Gross",
+    "nome": "Christine Maxwell"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia6",
+    "def6": "Convidado",
+    "NomeB": "England Velazquez",
+    "nomeA": "Gay Montoya",
+    "nome": "Araceli Erickson"
+  },
+  {
+    "especial": "dia7",
+    "acesso": "dia6",
+    "def3": "Auditiva",
+    "def1": "Física",
+    "NomeB": "Harper Benson",
+    "nomeA": "Erika Mcknight",
+    "nome": "Renee Coffey"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia5",
+    "def3": "Auditiva",
+    "def2": "Visual",
+    "nomeA": "Nancy Nieves",
+    "nome": "Clark Griffin"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia5",
+    "def2": "Visual",
+    "nomeA": "Ingram Dawson",
+    "nome": "Lisa Crane"
+  },
+  {
+    "especial": "dia13",
+    "acesso": "dia5",
+    "def2": "Visual",
+    "def1": "Física",
+    "NomeB": "Katharine Marks",
+    "nomeA": "Whitehead Macdonald",
+    "nome": "Cochran Ewing"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "def2": "Visual",
+    "nomeA": "Esmeralda Gallagher",
+    "nome": "Geneva Orr"
+  },
+  {
+    "especial": "dia7",
+    "acesso": "dia6",
+    "def1": "Física",
+    "nomeA": "Monica Robertson",
+    "nome": "Lucile Baird"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia5",
+    "def3": "Auditiva",
+    "def2": "Visual",
+    "NomeB": "Nicole Mckenzie",
+    "nomeA": "Georgia Wagner",
+    "nome": "Savannah Travis"
+  },
+  {
+    "especial": "dia13",
+    "acesso": "dia5",
+    "def2": "Visual",
+    "nomeA": "Gray Espinoza",
+    "nome": "Hamilton Hogan"
+  },
+  {
+    "especial": "dia13",
+    "acesso": "dia6",
+    "def1": "Física",
+    "nomeA": "Whitaker Chambers",
+    "nome": "Ina Benton"
+  },
+  {
+    "especial": "dia7",
+    "acesso": "dia5",
+    "def3": "Auditiva",
+    "nomeA": "Herrera Spence",
+    "nome": "Wall Livingston"
+  },
+  {
+    "especial": "dia13",
+    "acesso": "dia5",
+    "def2": "Visual",
+    "def1": "Física",
+    "nomeA": "Jacobson Nielsen",
+    "nome": "Juarez Morin"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia6",
+    "def6": "Convidado",
+    "nomeA": "Montoya Small",
+    "nome": "Jami Hoover"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia5",
+    "def4": "Intelectual",
+    "nomeA": "Hendricks Lamb",
+    "nome": "Valdez Talley"
+  },
+  {
+    "especial": "dia7",
+    "acesso": "dia6",
+    "def2": "Visual",
+    "nomeA": "Kristy Rogers",
+    "nome": "Schultz Oliver"
+  },
+  {
+    "dia4": "dia8",
+    "dia3": "dia7",
+    "dia2": "dia6",
+    "dia1": "dia5",
+    "def5": "Cadeirante",
+    "def3": "Auditiva",
+    "nomeA": "Leona Freeman",
+    "nome": "Pena Stephens"
+  },
+  {
+    "especial": "dia13",
+    "acesso": "dia5",
+    "def6": "Convidado",
+    "nomeA": "Barrett Park",
+    "nome": "Jimmie Villarreal"
+  },
+  {
+    "dia5": "dia13",
+    "dia4": "dia8",
+    "def5": "Cadeirante",
+    "def3": "Auditiva",
+    "nomeA": "Rosemary Howell",
+    "nome": "Imogene Lester"
+  },
+  {
+    "especial": "dia8",
+    "acesso": "dia5",
+    "def3": "Auditiva",
+    "def1": "Física",
+    "NomeB": "Blankenship Duffy",
+    "nomeA": "Kathie Mosley",
+    "nome": "Becker Jimenez"
+  }
+]

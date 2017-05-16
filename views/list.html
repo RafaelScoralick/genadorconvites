@@ -1,0 +1,49 @@
+
+<div class="container">
+    
+<label class="">
+ Ordenar por: <select class="form-control pull-right" ng-model="ordem" ng-init="ordem='+nome'">
+  <option value="+nome" selected>Deficiente A-Z</option>
+  <option value="-nome">Deficiente Z-A</option>
+  <option value="+nomeA">Acompanhate A-Z</option>
+  <option value="-nomeA">Acompanhate Z-A</option>
+</select></label>
+
+
+<label class="">Tipo de Deficiencia: 
+<select  class="form-control pull-right" ng-model="def.$" >
+  <option selected value=""></option>   
+  <option value="Física">Física</option>
+  <option value="Visual">Visual</option>
+  <option value="Auditiva">Auditiva</option>
+  <option value="Intelectual">Intelectual</option>
+  <option value="Cadeirante">Cadeirante</option>
+</select></label>
+
+<label class="">Apenas Dia: 
+<select class="form-control pull-right" ng-model="dia.$" >
+  <option selected value=""></option>    
+  <option value="Dia5">Dia 5</option>
+  <option value="Dia6">Dia 6</option>
+  <option value="Dia7">Dia 7</option>
+  <option value="Dia8">Dia 8</option>
+  <option value="Dia13">Dia 13</option>
+</select></label>
+
+
+</div>
+<h4 class="col-xs-12 alert alert-success" class="ng-cloak">localizado(s) {{(lista|filter:searchText|filter:searchText|filter:def|filter:dia).length}} cadastro(s). 
+representando {{porcento((lista|filter:searchText|filter:searchText|filter:def|filter:dia).length / lista.length *100)}}% dos cadastros </h4>
+
+<input placeholder="Buscar Nome: " class="col-xs-12 form-control" ng-model="searchText.nome" ng-model-options="{ debounce: 400 }">
+<br>
+<div ng-repeat="data in lista | orderBy:ordem | filter:searchText | filter:def | filter:dia">
+    
+    <div>
+        <smpd-panel nome={{::data.nome}} nomea={{::data.nomeA}} nomeb={{::data.nomeB}} 
+        def1={{::data.def1}} def2={{::data.def2}} def3={{::data.def3}} def4={{::data.def4}} def5={{::data.def5}} def6={{::data.def6}} 
+        acesso={{::data.acesso}} especial={{::data.especial}}
+        dia1={{::data.dia1}} dia2={{::data.dia2}} dia3={{::data.dia3}} dia4={{::data.dia4}} dia5={{::data.dia5}}
+        ></smpd-panel>        
+    </div>
+</div>

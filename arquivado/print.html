@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Formulário</title>
+        <meta charset="UTF-8">
+        <script type="text/javascript" src="require/jquery.js"></script>
+        <script type="text/javascript" src="require/angular.js"></script>
+        <script type="text/javascript" src="require/angular-route.js"></script>
+        <script type="text/javascript" src="require/angular-resource.js"></script>
+        <script type="text/javascript" src="require/bootstrap.js"></script>
+
+        <script type="text/javascript" src="app.js"></script>
+        
+        <link rel="stylesheet" href="require/bootstrap.css" type="text/css" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="require/app.css" type="text/css" />
+    </head>
+    <body ng-app="smpd">
+        <menu>
+            <item href="#/list">Lista Geral</item>
+            <dropdown nome="imprimir">
+                <item href="#/5"> dia 5</item>
+                <item href="#/6"> dia 6</item>
+                <item href="#/7"> dia 7</item>
+                <item href="#/8"> dia 8</item>
+                <item href="#/13"> dia 13</item>
+            </dropdown>
+        </menu>
+        
+        <div class="container" ng-view></div>
+        <div style="page-break-before: always"></div>
+    </body>
+</html>
+
+
+  
+<!-- <div class='quebra'></div>{{data.nomeB}} -->

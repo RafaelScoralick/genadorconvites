@@ -1,0 +1,6 @@
+<div ng-repeat="data in lista | orderBy:'+nome'">
+    <div style='position:absolute; top:{{234*indice($index)}}px; left:{{par($index)}}px;width:330px;'>        
+        <conviteImagem ng-src='{{::image(data)}}'></conviteImagem> 
+        <conviteNome>{{::data.nome}}<div class='quebra'></div>{{::data.nomeA}}<div class='quebra'></div>{{::data.nomeB}}</conviteNome>
+    </div>
+</div>
